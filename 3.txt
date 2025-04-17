@@ -1,4 +1,4 @@
-this to change the previous commit
+conflict created
 
 now this is changed for check push operation
 
