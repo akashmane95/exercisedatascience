@@ -2,3 +2,4 @@ conflict created
 
 now this is changed for check push operation
 
+new line added for merge with child branch
