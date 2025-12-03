@@ -1,5 +1,0 @@
-this to change the previous commit
-
-now this is changed for check push operation
-
-new line added for merge with child branch
